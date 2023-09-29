@@ -2,4 +2,4 @@
 
 Projeto de Teoria de decisão multi-critério feito na cadeira de Sistemas de Apoio à Decisão
 
-![](Grafo-final-result-dominance.jpg)
+![](Screenshot-3.png)
