@@ -6,6 +6,11 @@ Programa utilizado em:
 www.github.com/Valdecy
 
 Canvas do projeto:
+
+CANVAS1
+https://www.canva.com/design/DAFu1kx9u00/_K6jptGRSf1gXOTfN4jcpw/edit?utm_content=DAFu1kx9u00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+CANVAS2
 https://www.canva.com/design/DAFvlXqpQpk/A-JtkrPWf6zjU7640XfxQg/edit?utm_content=DAFvlXqpQpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ![](Screenshot_3.png)
